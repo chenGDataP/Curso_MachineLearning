@@ -1,8 +1,10 @@
 Lenguaje de programación: Python
 
 # Day_1
-
-Lista de ejercicios: Tipos de Variable, Condicionales, Bucles, Pandas
+Ejercicios sobre Tipos de Variable
+Ejercicios con Condicionales
+Ejercicios con Bucles 
+Ejercicios con Pandas
 
 
 
