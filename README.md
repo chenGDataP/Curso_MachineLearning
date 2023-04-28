@@ -37,4 +37,8 @@ Visualización de las estaciones espaciales y diversos parámetros con la librer
 
 # Day_5
 
-asdasd
+Ejercicios sobre Regresión Lineal
+
+Ejercicios utilizando Plotly
+
+Uso de librerias de python que implementan SQL para hacer EDAs 
